@@ -1,7 +1,7 @@
 # Camera — Terms of Service
 **Last Updated**: September 3rd, 2022
 
-### What is Suggester
+### What is Camera
 Camera is a companion app in the form of a [Discord](https://discord.com) bot useful when starting in Rainbow Six Siege. It is mostly aimed at new players, to make the learning process a bit simpler.
 
 ### Definitions
