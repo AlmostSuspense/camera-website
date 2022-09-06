@@ -9,7 +9,7 @@ By default, Camera does not store any data. But if we detect abuse and need to p
 ### Logging
 To power analytical features, Camera tracks actions users take when using the bot. The term “actions” represents interactions with the bot that result in responses, like using a command. Logging is done by sending a message in a private channel only the bot's staff has access to, containing basic information about your profile (username, discriminator, user id and client locale) and a brief description of what you did (for example, used a command). 
 
-### Data Deleteion
+### Data Deletion
 Due to the nature of the logging system, fully integrated with Discord, we are not able to delete them. Additonally, since the only data we might store about users is their user id to prevent abuse, it is necessary for the bot to work and thus not something you can request the deletion of. 
 
 ### Questions
