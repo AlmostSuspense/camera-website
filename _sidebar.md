@@ -1,6 +1,7 @@
 # **DOCUMENTATION**
 [Features](/camera/features.md)
 [Contributions](/camera/contribute)
+[Changelog](/camera/changelogs.md)
 [Acknowledgments](/camera/thanks.md)
 
 ---
