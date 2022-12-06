@@ -1,5 +1,17 @@
 # Changelogs
-### Camera v1.2 (October 18th)**
+
+### Camera v1.3 (December 6th)
+
+📦 **Features**
+- Added Y7S4 elements, which include (but are not limited to):
+> **Solis**, the new Colombian operator and her SPEC-IO Electro-Sensor
+> **Nighthaven Labs**, the new map set in Singapore, available in select playlists and not bannable in Ranked
+> **Changes to Health and Speed** for Aruni, Dokkaebi, Echo, Ela, Melusi, Mute, Osa, Sens, Sledge, Thatcher, Thunderbird, Zero and Zofia
+> **Renown price change** traditionally decreased by 5,000 for Aruni, Thorn, Wamai and Kali
+
+More information about Solar Raid can be found here: <https://rainbow6.com/solarraid>
+
+### Camera v1.2 (October 18th)
 
 📦 **Features**
 - Added new funfacts and corrected some of them
