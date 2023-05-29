@@ -44,7 +44,7 @@ Added Y7S4 elements, which include (but are not limited to):
 - **Changes to Health and Speed** for Aruni, Dokkaebi, Echo, Ela, Melusi, Mute, Osa, Sens, Sledge, Thatcher, Thunderbird, Zero and Zofia
 - **Renown price change** traditionally decreased by 5,000 for Aruni, Thorn, Wamai and Kali
 
-More information about Operation Solar Raid can be found here: https://rainbow6.com/solarraid
+More information about Operation Solar Raid (Y7S4) can be found here: https://rainbow6.com/solarraid
 
 ### Camera v1.2 (October 18th, 2022)
 
