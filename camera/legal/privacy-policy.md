@@ -1,5 +1,5 @@
 # Camera — Privacy Policy
-**Effective Date**: September 1st, 2022
+**Effective Date**: September 1st, 2022\
 **Last Updated**: August 31st, 2024
 
 Camera (also referred to as “the camera bot”, “it” or Camera#4879) is a Discord bot based around [Rainbow Six: Siege](https://ubisoft.com/en-us/game/rainbow-six/siege). Camera helps you get into the universe of Siege — learn the operators, maps, gadgets, and start climbing the rank ladder!
