@@ -1,71 +1,459 @@
-# Changelogs
+<h1 class="year-header">Changelogs</h1>
 
-### Camera v1.6 (May 29th, 2023)
-**📦 Features**
-- ⚡ Replaced autocomplete in certain commands with direct choices for even faster use
-- 📔 Added new and revised funfacts
-- 🗓️ Added the year to changelog headers on this website
+<h2 class="year-header">2025</h2>
 
-This update also includes changes related to Siege's new season, Operation Dread Factor, including:
-- 🛡️ New defense operator: Fenrir and his F-NATT Dread Mine
-- 👀 New secondary gadget: Observation Blocker
-- 🛖 Blueprints for the reworked Consulate are not yet included since Ubisoft's website does not appear to be up to date at the moment
+<div class="collapsible-box">
+  <div class="collapsible-header">
+    <span>Version 1.14 - March 2nd</span>
+    <span class="arrow"><i class="fas fa-chevron-right"></i></span>
+  </div>
+  <div class="collapsible-content">
+    <strong>🚪 Operation Prep Phase</strong>
+    <p><em>Pushing forward? Falling back? There's only one way to find out.</em><br>
+      The immediate crisis is passed, but danger looms and shadows hide adversaries best tackled with Operation Prep Phase. With a need for additional allies, new Operator <a href="https://www.ubisoft.com/en-us/game/rainbow-six/siege/game-info/operators/rauora" target="_blank" rel="noopener noreferrer"><strong>Rauora</strong></a> arrives to inject fresh vitality and perspective to team Rainbow with her D.O.M. (Deployable Omnilink Mesh) Panel Launcher.</p>
+    <p>🔧 Available in the <code>/season</code> command alongside new features.</p>
+    <strong>✨ Features</strong>
+    <ul>
+      <li>🗺️ Added the <code>/roadmap</code> command that showcases what Ubisoft has planned for the year, with more details coming on March 13</li>
+      <li>😄 Camera now uses Discord's application-emoji feature, no longer requiring the Use External Emoji permission</li>
+    </ul>
+    <p>More details will be added to the <code>/roadmap</code> command when Ubisoft releases more info about Year 10, likely during the Siege X Showcase event!</p>
+    <strong>🐞 Fixes</strong>
+    <ul>
+      <li>🆎 Fixed a few grammatical and formatting errors</li>
+    </ul>
+  </div>
+</div>
 
-More information about Operation Dread Factor (Y8S2) can be found here: https://rainbow6.com/dreadfactor
+<h2 class="year-header">2024</h2>
 
-### Camera v1.5 (April 30th, 2023)
-**📦 Features**
-- Replaced autocomplete in `/links` in favor of choices (which is faster)
-- Added the official Twitch channel to `/links`
+<div class="collapsible-box">
+  <div class="collapsible-header">
+    <span>Version 1.13 - December 3rd</span>
+    <span class="arrow"><i class="fas fa-chevron-right"></i></span>
+  </div>
+  <div class="collapsible-content">
+    <strong>🛡️ Operation Collision Point</strong>
+    <p><em>Prepare to break through.</em><br>
+      The onset of Operation Collision Point brings conflict to dangerous new heights. Old ways of working are challenged and found wanting. <a href="https://www.ubisoft.com/en-us/game/rainbow-six/siege/game-info/operators/blackbeard" target="_blank" rel="noopener noreferrer"><strong>Blackbeard</strong></a> pushes past his old limitations and reinforces himself with the new H.U.L.L. Adaptive Shield.</p>
+    <p>🔧 Now available in the <code>/season</code> command alongside balancing changes and new features.</p>
+    <strong>🐞 Fixes</strong>
+    <ul>
+      <li>Various formatting fixes</li>
+      <li>Small bugs have been squashed</li>
+    </ul>
+  </div>
+</div>
 
-This update mostly contains bug fixes and internal improvements. 
 
-### Camera v1.4 (March 7th, 2023)
-📦 **Features**
-- 🇧🇷 Added support for Y8S1 with the new brazilian operator Brava and her Kludge Drone
-- ⌛ Added the `/season` command to lookup past seasons and view what they've brought to the game, including operators, weapons, maps, general changes and balancing changes. Note: it currently does not include midseason changes (with a few exceptions)
-- 💬 Added the `/feedback` command that you can use to send your suggestions, bug reports or general comments. It supports replies which means you might receive a DM from the bot if your feedback message received a reply (if you want replies make sure you have DMs enabled in at least one mutual server with the bot!)
-- 👟 Increased autocomplete results from 10 to 25 and slightly improved speed
+<div class="collapsible-box">
+  <div class="collapsible-header">
+    <span>Version 1.12.1 - October 23</span>
+    <span class="arrow"><i class="fas fa-chevron-right"></i></span>
+  </div>
+  <div class="collapsible-content">
+    <p>This update includes small features and various changes, including the recent midseason balancing patch announced by Ubisoft yesterday: <a href="https://www.ubisoft.com/game/rainbow-six/siege/news-updates/5AEJqynHKz8fcbB7lUVSF8" target="_blank" rel="noopener noreferrer">patch notes</a> and <a href="https://rainbow6.com/designersnotes/y9s3_3" target="_blank" rel="noopener noreferrer">designer notes</a> are available at the links above!</p>
+    <strong>📦 Features</strong>
+    <ul>
+      <li>⚖️ Balancing changes to Zofia, Zero, Mozzie and Kali are now reflected in the bot</li>
+      <li>👋 Improved the message sent when the bot joins a new server with a button listing popular commands to try</li>
+      <li>🗺️ Map blueprints have been significantly cropped to focus on actual layout instead of surroundings</li>
+      <li>🧐 Improved the blueprint viewer with a legend</li>
+      <li>🏰 Removed a broken first floor blueprint for Villa</li>
+      <li>📙 Fixed various grammatical, punctuation, spacing, and syntax issues</li>
+      <li>📁 Re-added the 'zip download' option for map blueprints, now linking to Ubisoft's site</li>
+      <li>🖌️ Redesigned the Lore section with emojis instead of dynamic sentences</li>
+      <li>📜 Improved the Tips section look with bullet points and a counter</li>
+    </ul>
+  </div>
+</div>
 
-More information about Operation Commanding Force (Y8S1) can be found here: https://rainbow6.com/commandingforce
 
-🛠️ **Fixes**
-- *️⃣ Added a bunch of missing synergies and counters to various operators
-- 🪚 Many gadget "members" have been updated (via the /gadget command)
-- 🔗 Fixed wrong links in the title field of many embeds and in the /links command
-- ⚽ Added and adjusted some funfact wordings
-- 🕒 Dates will slowly be turned into normal words rather than markdown timestamps
+<div class="collapsible-box">
+  <div class="collapsible-header">
+    <span>Version 1.12 - September 10</span>
+    <span class="arrow"><i class="fas fa-chevron-right"></i></span>
+  </div>
+  <div class="collapsible-content">
+    <strong>⚔️ Operation Twin Shells</strong>
+    <p><em>I was an apex killer, fueled by instinct and adrenaline. Times change, though. And so have I. Now, I'm twice as dangerous.</em></p>
+    <p>Veteran operator <a href="https://www.ubisoft.com/en-us/game/rainbow-six/siege/game-info/operators/skopos" target="_blank" rel="noopener noreferrer"><strong>Skopós</strong></a> returns to active duty with the brand-new Version 10-Pantheon Shells, two remote-controlled shells she switches between to provide offensive or defensive support.</p>
+    <p>🛠️ Now available in the <code>/season</code> command alongside balancing changes and new features.</p>
+    <strong>📦 Features</strong>
+    <ul>
+      <li>🔍 Added <code>/search</code>, a command to search all season changelogs for specific queries.</li>
+      <li>💭 Added <code>/poll</code>, a new way to start a randomized Siege-related conversation poll.</li>
+      <li>💵 Seasonal operator price decreases are now shown and explained more clearly under the "Changes" button when looking up a season.</li>
+      <li>👮 Slightly redesigned the <code>/operator</code> command's buttons; the Tips button only shows if tips exist.</li>
+      <li>📕 Added Operator Specialties to the Strategies tab of operators (introduced in Op. Commanding Force, Y8S1).</li>
+      <li>🤔 Added <code>/is-siege-realistic</code> command.</li>
+    </ul>
+    <strong>🔒 Privacy</strong>
+    <ul>
+      <li>🪵 Camera's usage logs now include more detailed command option info for better debugging. The <a href="https://suspense.is-a.dev/#/camera/legal/privacy-policy.md" target="_blank" rel="noopener noreferrer">privacy policy</a> has been updated accordingly.</li>
+    </ul>
+    <strong>🐞 Fixes</strong>
+    <ul>
+      <li>Fixed bot not responding to the gadget command when looking up the Gonne-6.</li>
+      <li>Fixed operators without a squad still linking to the squads webpage in Lore.</li>
+      <li>Removed placeholder strings in Op. New Blood's balancing section.</li>
+    </ul>
+  </div>
+</div>
 
-### Camera v1.3 (December 6th, 2022)
-📦 **Features**
-Added Y7S4 elements, which include (but are not limited to):
-- **Solis**, the new Colombian operator and her SPEC-IO Electro-Sensor
-- **Nighthaven Labs**, the new map set in Singapore, available in select playlists and not bannable in Ranked
-- **Changes to Health and Speed** for Aruni, Dokkaebi, Echo, Ela, Melusi, Mute, Osa, Sens, Sledge, Thatcher, Thunderbird, Zero and Zofia
-- **Renown price change** traditionally decreased by 5,000 for Aruni, Thorn, Wamai and Kali
 
-More information about Operation Solar Raid (Y7S4) can be found here: https://rainbow6.com/solarraid
+<div class="collapsible-box">
+  <div class="collapsible-header">
+    <span>Version 1.11 - June 12th</span>
+    <span class="arrow"><i class="fas fa-chevron-right"></i></span>
+  </div>
+  <div class="collapsible-content">
+    <strong>⚔️ Operation New Blood</strong>
+    <p><em>“This is what we've been training for; there is no angle we can't cover. We are Rainbow, reporting for duty.”</em></p>
+    <p>Introducing the first Operator Remaster of the year, and who better to inaugurate this event than the iconic Recruit. Meet <a href="https://www.ubisoft.com/en-us/game/rainbow-six/siege/game-info/operators/striker" target="_blank" rel="noopener noreferrer"><strong>Striker</strong></a>, the attacker recruit, and <a href="https://www.ubisoft.com/en-us/game/rainbow-six/siege/game-info/operators/sentry" target="_blank" rel="noopener noreferrer"><strong>Sentry</strong></a>, the defender recruit, who will now be playable in all modes.</p>
+    <p>🛠️ Now available in the <code>/season</code> command alongside balancing changes and new features.</p>
+    <strong>📦 Features</strong>
+    <ul>
+      <li>🎉 Enhanced the <code>/custom</code> command with a new look, more developed twists, and added the map thumbnail to the embed.</li>
+      <li>🗺️ The <code>/map</code> command now displays all modes a map is available in, including training and arcade modes.</li>
+      <li>💬 Updated the feedback system flow for a smoother experience.</li>
+      <li>🥺 Added the <code>/legacy</code> command which displays fun facts about what old Siege was like.</li>
+      <li>✨ Updated the design of the <code>/operator</code> command: weapon loadout combined into one field, secondary gadgets organized for a cleaner look.</li>
+      <li>🛡️ New icons for secondary gadgets.</li>
+    </ul>
+  </div>
+</div>
 
-### Camera v1.2 (October 18th, 2022)
 
-📦 **Features**
-- Added new funfacts and corrected some of them
-- Updated operator descriptions for Doc, Dokkaebi and Rook following the Y7S3.3 update which tweaked their ability
-- Changes related to the the Y7S3.3 mid-season balancing update have been made
-- Added operator price in renown to the `/operator` command
-- Funfacts no longer use embeds and are now ephemeral 
+<div class="collapsible-box">
+  <div class="collapsible-header">
+    <span>Version 1.10 - May 8th</span>
+    <span class="arrow"><i class="fas fa-chevron-right"></i></span>
+  </div>
+  <div class="collapsible-content">
+    <strong>🐞 Bugs</strong>
+    <ul>
+      <li>Fixed a bug where the operator pricing was incorrect in some situations (thanks @manny1_.)</li>
+      <li>Counters and synergies without explanations no longer link to the operator page to reduce character limit errors.</li>
+      <li>Giving a nonexistent map name now properly responds with an error message.</li>
+    </ul>
+    <strong>ℹ️ Changes</strong>
+    <ul>
+      <li>🏴‍☠️ Fixed incorrect squad name on Blackbeard's Lore section.</li>
+      <li>🏠 Marked the Lair map as bannable in Ranked.</li>
+      <li>😳 Added default emojis to generic counters such as "cooperation" and "weapons".</li>
+      <li>🌶️ Added more hot takes.</li>
+    </ul>
+  </div>
+</div>
 
-🐛 **Bug Fixes**\
-FIXED: Fixed a bug where the url button on the `/info` command led to a 404\
-FIXED: The Emerald Plains map is no longer in the Newcomer playlist
 
-### Camera v1.1 (September 21st, 2022)
+<div class="collapsible-box">
+  <div class="collapsible-header">
+    <span>Version 1.9 - March 12nd</span>
+    <span class="arrow"><i class="fas fa-chevron-right"></i></span>
+  </div>
+  <div class="collapsible-content">
+    <strong>Operation Deadly Omen</strong>
+    <ul>
+      <li>💀 <em>“I was there when Rainbow began. I’ll be there when it ends.”</em></li>
+      <li>Track down your enemies with <a href="https://www.ubisoft.com/en-us/game/rainbow-six/siege/game-info/operators/deimos" target="_blank" rel="noopener noreferrer"><strong>Deimos</strong></a> and his DeathMARK gadget, a flying probe revealing both a designated target and Deimos’ location until eliminated.</li>
+      <li>🔧 Available in the <code>/season</code> command alongside balancing changes and new features</li>
+    </ul>
+    <strong>Features</strong>
+    <ul>
+      <li>❓ Added the <code>/random</code> command that accepts a side option and suggests an operator. You can reroll as many times as you want.</li>
+      <li>🎯 Added the <code>/attachments</code> command describing what each attachment does, including Deadly Omen’s scope rework.</li>
+      <li>🗃️ Updated the bot’s dataset including new maps in Quick Match, Versus AI and Map Training</li>
+      <li>📙 Added a few new operator explanations</li>
+    </ul>
+    <strong>Fixes</strong>
+    <ul>
+      <li>No more redacted data in Nokk’s Lore in the <code>/operator</code> command; replaced with a mysterious sentence.</li>
+      <li>Smoke no longer has the shield listed as an option.</li>
+      <li>Fixed some grammatical errors and character limit issues.</li>
+    </ul>
+    <p>🤗 If you have remarks or suggestions, use the <code>/feedback</code> command! Camera is still small, so any support is appreciated - leaving a review or upvote at <a href="https://wumpus.store/bot/594528267898454027" target="_blank" rel="noopener noreferrer">Wumpus Store</a> or <a href="https://top.gg/bot/594528267898454027" target="_blank" rel="noopener noreferrer">Top.gg</a> ✨</p>
+  </div>
+</div>
 
-:bug: **Bug Fixes**\
-FIXED: Links to zip files of blueprints for the most recent maps (Emerald Plains, Close Quarter and Stadium) were incorrect\
-FIXED: An incorrect command count was displayed on `/ping`
 
-:package: **Features**
-- Added a new welcome message that appears when the bot joins a new server to increase engagement
-- Added Vigil as a counter of Grim (as of Y7S3.1 his ability now counters Grim's bee bot)
-- Added a reminder about slash commands when sending a message that mentions the bot
+<div class="collapsible-box">
+  <div class="collapsible-header">
+    <span>Version 1.8.1 - January 23rd</span>
+    <span class="arrow"><i class="fas fa-chevron-right"></i></span>
+  </div>
+  <div class="collapsible-content">
+    <ul>
+      <li>Some changes were made regarding the recent <a href="https://rainbow6.com/patchnotes/y8s4_2" target="_blank" rel="noopener noreferrer">midseason changes</a>.</li>
+      <li>Added synergy and counter explanations for Solis</li>
+      <li>Added the name of the current game patch that Camera supports to the <code>/about</code> command</li>
+    </ul>
+  </div>
+</div>
+
+
+<h2 class="year-header">2023</h2>
+
+<div class="collapsible-box">
+  <div class="collapsible-header">
+    <span>Version 1.8 - December 6th</span>
+    <span class="arrow"><i class="fas fa-chevron-right"></i></span>
+  </div>
+  <div class="collapsible-content">
+    <strong>❄️ Operation Deep Freeze</strong>
+    <ul>
+      <li>🧊 Experience the new Zoto Canister, <a href="https://www.ubisoft.com/en-us/game/rainbow-six/siege/game-info/operators/tubarao" target="_blank" rel="noopener noreferrer"><strong>Tubarão</strong></a>'s throwable device that slows enemies and pauses gadgets</li>
+      <li>🗺️ New map: Lair - available in all playlists and based on Deimos' center of operations</li>
+      <li>🔧 Included in the <code>/season</code> command alongside balancing changes and features</li>
+    </ul>
+    <strong>Redesigned <code>/operator</code> Command</strong>
+    <ul>
+      <li>All operator data is now split into four sections:</li>
+      <ul>
+        <li><strong>Profile</strong>: Description, loadout, gadget info, and prices (now includes credits!)</li>
+        <li><strong>Strategies</strong>: Counters, synergies, and explanations</li>
+        <li><strong>Tips</strong>: Quick gameplay tips</li>
+        <li><strong>Lore</strong>: Character bio, size, weight, squad, etc.</li>
+      </ul>
+      <li><em>Note: Strategy explanations will be added to all operators over time</em></li>
+    </ul>
+    <strong>📦 Other Changes</strong>
+    <ul>
+      <li>🟢 Added the new <code>/status</code> command to view live game server status</li>
+      <li>✨ New content will now display a sparkle icon after release</li>
+      <li>💄 Redesigned the <code>/about</code> command with custom icons</li>
+    </ul>
+    <p><strong>☕ One more thing…</strong> If you enjoy using Camera, consider supporting its development on <a href="https://ko-fi.com/cameraiswatching" target="_blank" rel="noopener noreferrer">Ko-fi</a>. Your support means a lot and helps shape the future of the project!</p>
+    </div>
+</div>
+
+
+<div class="collapsible-box">
+  <div class="collapsible-header">
+    <span>Version 1.7.1 - September 5th</span>
+    <span class="arrow"><i class="fas fa-chevron-right"></i></span>
+  </div>
+  <div class="collapsible-content">
+    <strong>📦 Features & Fixes</strong>
+    <ul>
+      <li>🏷️ Various changes to the <code>/about</code> command:
+        <ul>
+          <li>It is now called <code>/about</code> instead of <code>/info</code></li>
+          <li>Small visual tweaks were made to the command output</li>
+          <li>Added a new "Changelog" button which posts the latest changelog</li>
+        </ul>
+      </li>
+      <li>🐞 Fixed a bug caused by a malformed hyperlink in the <code>/season</code> command</li>
+      <li>📉 Seasonal operator price changes are now listed under the "Changes" button in the same command</li>
+      <li>🖊️ Updated the invite link to request the "Add Reactions" permission for the <code>/hot-take</code> command</li>
+      <li>🛳️ Fixed a bunch of grammatical errors</li>
+    </ul>
+  </div>
+</div>
+
+
+<div class="collapsible-box">
+  <div class="collapsible-header">
+    <span>Version 1.7 - August 29th</span>
+    <span class="arrow"><i class="fas fa-chevron-right"></i></span>
+  </div>
+  <div class="collapsible-content">
+    <strong>📦 Features</strong>
+    <ul>
+      <li>💥 Added Siege's latest season, Operation Heavy Mettle, to the <code>/season</code> command</li>
+      <li>🐏 Added Ram to the <code>/operator</code> command</li>
+      <li>🌶️ Added the new <code>/hot-take</code> command, which sends a random hot-take related to the game to spark up conversations! Additionally, if the bot is able to, it'll add opinion reactions to the message for improved visuals.</li>
+      <li>🛡️ References to the Unranked playlist have been replaced with the new Standard playlist</li>
+    </ul>
+    </p>
+  </div>
+</div>
+
+
+
+<div class="collapsible-box">
+  <div class="collapsible-header">
+    <span>Version 1.6 - May 29th</span>
+    <span class="arrow"><i class="fas fa-chevron-right"></i></span>
+  </div>
+  <div class="collapsible-content">
+    <strong>📦 Features</strong>
+    <ul>
+      <li>⚡ Replaced autocomplete in certain commands with direct choices for even faster use</li>
+      <li>📔 Added new and revised funfacts</li>
+      <li>🗓️ Added the year to changelog headers on this website</li>
+    </ul>
+    <p>This update also includes changes related to Siege's new season, Operation Dread Factor, including:</p>
+    <ul>
+      <li>🛡️ New defense operator: Fenrir and his F-NATT Dread Mine</li>
+      <li>👀 New secondary gadget: Observation Blocker</li>
+      <li>🛖 Blueprints for the reworked Consulate are not yet included since Ubisoft's website does not appear to be up to date at the moment</li>
+    </ul>
+  </div>
+</div>
+
+<div class="collapsible-box">
+  <div class="collapsible-header">
+    <span>Version 1.5 - April 30th</span>
+    <span class="arrow"><i class="fas fa-chevron-right"></i></span>
+  </div>
+  <div class="collapsible-content">
+    <strong>📦 Features</strong>
+    <ul>
+      <li>Replaced autocomplete in <code>/links</code> in favor of choices - which is faster)</li>
+      <li>Added the official Twitch channel to <code>/links</code></li>
+    </ul>
+    <p>This update mostly contains bug fixes and internal improvements.</p>
+  </div>
+</div>
+
+<div class="collapsible-box">
+  <div class="collapsible-header">
+    <span>Version 1.4 - March 7th</span>
+    <span class="arrow"><i class="fas fa-chevron-right"></i></span>
+  </div>
+  <div class="collapsible-content">
+    <strong>📦 Features</strong>
+    <ul>
+      <li>🇧🇷 Added support for Y8S1 with the new brazilian operator Brava and her Kludge Drone</li>
+      <li>⌛ Added the <code>/season</code> command to lookup past seasons and view what they've brought to the game</li>
+      <li>💬 Added the <code>/feedback</code> command that supports replies with DMs</li>
+      <li>👟 Increased autocomplete results from 10 to 25 and slightly improved speed</li>
+    </ul>
+    <strong>🛠️ Fixes</strong>
+    <ul>
+      <li>Added missing synergies and counters to various operators</li>
+      <li>Updated many gadget "members" - via the <code>/gadget</code> command)</li>
+      <li>Fixed wrong links in many embeds and in the <code>/links</code> command</li>
+      <li>Added and adjusted some funfact wordings</li>
+      <li>Dates will slowly be turned into normal words rather than markdown timestamps</li>
+    </ul>
+  </div>
+</div>
+
+<h2 class="year-header">2022</h2>
+
+<div class="collapsible-box">
+  <div class="collapsible-header">
+    <span>Version 1.3 - December 6th</span>
+    <span class="arrow"><i class="fas fa-chevron-right"></i></span>
+  </div>
+  <div class="collapsible-content">
+    <strong>📦 Features</strong>
+    <p>Added Y7S4 elements, which include - but are not limited to):</p>
+    <ul>
+      <li><strong>Solis</strong>, the new Colombian operator and her SPEC-IO Electro-Sensor</li>
+      <li><strong>Nighthaven Labs</strong>, the new map set in Singapore</li>
+      <li>Changes to Health and Speed for several operators</li>
+      <li>Renown price change traditionally decreased by 5,000 for some operators</li>
+    </ul>
+  </div>
+</div>
+
+<div class="collapsible-box">
+  <div class="collapsible-header">
+    <span>Version 1.2 - October 18th</span>
+    <span class="arrow"><i class="fas fa-chevron-right"></i></span>
+  </div>
+  <div class="collapsible-content">
+    <strong>📦 Features</strong>
+    <ul>
+      <li>Added new funfacts and corrected some of them</li>
+      <li>Updated operator descriptions for Doc, Dokkaebi and Rook</li>
+      <li>Changes related to the Y7S3.3 mid-season balancing update</li>
+      <li>Added operator price in renown to the <code>/operator</code> command</li>
+      <li>Funfacts no longer use embeds and are now ephemeral</li>
+    </ul>
+    <strong>🐛 Bug Fixes</strong>
+    <ul>
+      <li>Fixed a bug where the url button on the <code>/info</code> command led to a 404</li>
+      <li>The Emerald Plains map is no longer in the Newcomer playlist</li>
+    </ul>
+  </div>
+</div>
+
+<div class="collapsible-box">
+  <div class="collapsible-header">
+    <span>Version 1.1 - September 21st</span>
+    <span class="arrow"><i class="fas fa-chevron-right"></i></span>
+  </div>
+  <div class="collapsible-content">
+    <strong>🐛 Bug Fixes</strong>
+    <ul>
+      <li>Links to zip files of blueprints for recent maps were incorrect</li>
+      <li>Incorrect command count was displayed on <code>/ping</code></li>
+    </ul>
+    <strong>:package: Features</strong>
+    <ul>
+      <li>Added a new welcome message when the bot joins a server</li>
+      <li>Added Vigil as a counter of Grim - Y7S3.1 update)</li>
+      <li>Added reminder about slash commands when the bot is mentioned</li>
+    </ul>
+  </div>
+</div>
+
+<style>
+  .collapsible-box {
+    border: 1px solid #ccc;
+    margin: 10px 0;
+    border-radius: 4px;
+    overflow: hidden;
+  }
+  .collapsible-header {
+    background: #F1DE26;
+    padding: 10px;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .collapsible-header:hover {
+    background: #f1de26;
+    color:#000000;
+  }
+  .arrow {
+    transition: transform 0.3s ease;
+    display: inline-block;
+  }
+  .arrow.open {
+    transform: rotate(90deg);
+  }
+  .collapsible-content {
+    display: none;
+    padding: 10px;
+    background: #fff;
+  }
+
+  .toggle-btn {
+  background-color: #5865F2; /* Discord blurple */
+  color: white;
+  padding: 8px 14px;
+  margin: 5px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: 600;
+  transition: background-color 0.2s ease;
+}
+
+.toggle-btn:hover {
+  background-color: #4752C4;
+}
+
+</style>
+
+<script>
+  document.addEventListener('DOMContentLoaded', - ) => {
+
+    document.querySelectorAll('.collapsible-header').forEach(header => {
+      header.addEventListener('click', - ) => {
+        const content = header.nextElementSibling
+        const arrow = header.querySelector('.arrow')
+        const isOpen = content.style.display === 'block'
+        content.style.display = isOpen ? 'none' : 'block'
+        arrow.classList.toggle('open', !isOpen)
+      })
+    })
+  })
+</script>
