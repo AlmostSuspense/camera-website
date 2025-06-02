@@ -1,10 +1,10 @@
-<h1 class="year-header">Changelogs</h1>
+<h1 class="top-header">Changelogs</h1>
 
 <h2 class="year-header">2025</h2>
 
 <div class="collapsible-box">
   <div class="collapsible-header">
-    <span>Version 1.14 - March 2nd</span>
+    <span>Version 1.14 - March 2</span>
     <span class="arrow"><i class="fas fa-chevron-right"></i></span>
   </div>
   <div class="collapsible-content">
@@ -29,7 +29,7 @@
 
 <div class="collapsible-box">
   <div class="collapsible-header">
-    <span>Version 1.13 - December 3rd</span>
+    <span>Version 1.13 - December 3</span>
     <span class="arrow"><i class="fas fa-chevron-right"></i></span>
   </div>
   <div class="collapsible-content">
@@ -104,7 +104,7 @@
 
 <div class="collapsible-box">
   <div class="collapsible-header">
-    <span>Version 1.11 - June 12th</span>
+    <span>Version 1.11 - June 12</span>
     <span class="arrow"><i class="fas fa-chevron-right"></i></span>
   </div>
   <div class="collapsible-content">
@@ -127,7 +127,7 @@
 
 <div class="collapsible-box">
   <div class="collapsible-header">
-    <span>Version 1.10 - May 8th</span>
+    <span>Version 1.10 - May 8</span>
     <span class="arrow"><i class="fas fa-chevron-right"></i></span>
   </div>
   <div class="collapsible-content">
@@ -150,7 +150,7 @@
 
 <div class="collapsible-box">
   <div class="collapsible-header">
-    <span>Version 1.9 - March 12nd</span>
+    <span>Version 1.9 - March 12</span>
     <span class="arrow"><i class="fas fa-chevron-right"></i></span>
   </div>
   <div class="collapsible-content">
@@ -180,7 +180,7 @@
 
 <div class="collapsible-box">
   <div class="collapsible-header">
-    <span>Version 1.8.1 - January 23rd</span>
+    <span>Version 1.8.1 - January 23</span>
     <span class="arrow"><i class="fas fa-chevron-right"></i></span>
   </div>
   <div class="collapsible-content">
@@ -197,7 +197,7 @@
 
 <div class="collapsible-box">
   <div class="collapsible-header">
-    <span>Version 1.8 - December 6th</span>
+    <span>Version 1.8 - December 6</span>
     <span class="arrow"><i class="fas fa-chevron-right"></i></span>
   </div>
   <div class="collapsible-content">
@@ -231,7 +231,7 @@
 
 <div class="collapsible-box">
   <div class="collapsible-header">
-    <span>Version 1.7.1 - September 5th</span>
+    <span>Version 1.7.1 - September 5</span>
     <span class="arrow"><i class="fas fa-chevron-right"></i></span>
   </div>
   <div class="collapsible-content">
@@ -255,7 +255,7 @@
 
 <div class="collapsible-box">
   <div class="collapsible-header">
-    <span>Version 1.7 - August 29th</span>
+    <span>Version 1.7 - August 29</span>
     <span class="arrow"><i class="fas fa-chevron-right"></i></span>
   </div>
   <div class="collapsible-content">
@@ -274,7 +274,7 @@
 
 <div class="collapsible-box">
   <div class="collapsible-header">
-    <span>Version 1.6 - May 29th</span>
+    <span>Version 1.6 - May 29</span>
     <span class="arrow"><i class="fas fa-chevron-right"></i></span>
   </div>
   <div class="collapsible-content">
@@ -295,7 +295,7 @@
 
 <div class="collapsible-box">
   <div class="collapsible-header">
-    <span>Version 1.5 - April 30th</span>
+    <span>Version 1.5 - April 30</span>
     <span class="arrow"><i class="fas fa-chevron-right"></i></span>
   </div>
   <div class="collapsible-content">
@@ -310,7 +310,7 @@
 
 <div class="collapsible-box">
   <div class="collapsible-header">
-    <span>Version 1.4 - March 7th</span>
+    <span>Version 1.4 - March 7</span>
     <span class="arrow"><i class="fas fa-chevron-right"></i></span>
   </div>
   <div class="collapsible-content">
@@ -336,7 +336,7 @@
 
 <div class="collapsible-box">
   <div class="collapsible-header">
-    <span>Version 1.3 - December 6th</span>
+    <span>Version 1.3 - December 6</span>
     <span class="arrow"><i class="fas fa-chevron-right"></i></span>
   </div>
   <div class="collapsible-content">
@@ -353,7 +353,7 @@
 
 <div class="collapsible-box">
   <div class="collapsible-header">
-    <span>Version 1.2 - October 18th</span>
+    <span>Version 1.2 - October 18</span>
     <span class="arrow"><i class="fas fa-chevron-right"></i></span>
   </div>
   <div class="collapsible-content">
@@ -375,7 +375,7 @@
 
 <div class="collapsible-box">
   <div class="collapsible-header">
-    <span>Version 1.1 - September 21st</span>
+    <span>Version 1.1 - September 21</span>
     <span class="arrow"><i class="fas fa-chevron-right"></i></span>
   </div>
   <div class="collapsible-content">
