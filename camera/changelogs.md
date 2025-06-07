@@ -324,7 +324,7 @@
     <strong>🛠️ Fixes</strong>
     <ul>
       <li>Added missing synergies and counters to various operators</li>
-      <li>Updated many gadget "members" - via the <code>/gadget</code> command)</li>
+      <li>Updated the list of operators carrying many gadgets, visibke in the <code>/gadget</code> command)</li>
       <li>Fixed wrong links in many embeds and in the <code>/links</code> command</li>
       <li>Added and adjusted some funfact wordings</li>
       <li>Dates will slowly be turned into normal words rather than markdown timestamps</li>
@@ -387,7 +387,7 @@
     <strong>:package: Features</strong>
     <ul>
       <li>Added a new welcome message when the bot joins a server</li>
-      <li>Added Vigil as a counter of Grim - Y7S3.1 update)</li>
+      <li>Added Vigil as a counter of Grim</li>
       <li>Added reminder about slash commands when the bot is mentioned</li>
     </ul>
   </div>
