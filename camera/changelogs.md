@@ -4,7 +4,7 @@
 
 <div class="collapsible-box">
   <div class="collapsible-header">
-    <span>Version 1.15 - June 8</span>
+    <span>Version 1.15 - June 8 <img src="https://cdn.discordapp.com/emojis/1345421034593058886.webp?size=4096&quality=lossless" alt="Siege X" style="width:1.2em; height:1.2em; vertical-align:middle; margin-right:0.3em;"></span>
     <span class="arrow"><i class="fas fa-chevron-right"></i></span>
   </div>
   <div class="collapsible-content">
@@ -20,7 +20,7 @@
       <li>👀 Updated the <code>/roadmap</code> to showcase all changes Ubisoft announced for the year</li>
       <li>🪚 Changed the look of the <code>/gadget</code> command</li>
       <li>🗺️ Maps that received a modernization as part of Siege X are marked as such in the <code>/map</code> command</li>
-      <li>🛰️ Reworked (and re-enabled) the <code>/status</code> command with a new design and separate sections for old-gen consoles</li>
+      <li>🛰️ Reworked the <code>/status</code> command with a new design and separate sections for old-gen consoles</li>
       <li>🤔 Added new polls and hot takes</li>
       <li>💬 Camera will now use a random Siege quote as its status, updated every hour</li>
     </ul>
@@ -35,7 +35,6 @@
     </ul>
   </div>
 </div>
-
 
 
 <div class="collapsible-box">
