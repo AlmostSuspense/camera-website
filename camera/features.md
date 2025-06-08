@@ -44,4 +44,3 @@
     <i class="fa-solid fa-plus"></i> Add Camera
   </a>
 </div>
-<div class="tight-links">

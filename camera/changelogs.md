@@ -4,6 +4,42 @@
 
 <div class="collapsible-box">
   <div class="collapsible-header">
+    <span>Version 1.15 - June 8</span>
+    <span class="arrow"><i class="fas fa-chevron-right"></i></span>
+  </div>
+  <div class="collapsible-content">
+    <strong>⚡ Operation Daybreak</strong>
+    <p><em>“Challenge Clash and you're in for a lot of trouble”</em><br>
+      Operation Daybreak heralds many things, but chief among them is a celebration of years of successful operations and the courage to follow through as we enter into Siege X!
+      Following in step is <a href="https://www.ubisoft.com/en-us/game/rainbow-six/siege/game-info/operators/" target="_blank" rel="noopener noreferrer"><strong>Clash</strong></a>,
+      brimming with new energy and a powerful improvement to her gear.
+    </p>
+    <p>🔧 Available in the <code>/season</code> command alongside new features.</p>
+    <strong>✨ Features</strong>
+    <ul>
+      <li>👀 Updated the <code>/roadmap</code> to showcase all changes Ubisoft announced for the year</li>
+      <li>🪚 Changed the look of the <code>/gadget</code> command</li>
+      <li>🗺️ Maps that received a modernization as part of Siege X are marked as such in the <code>/map</code> command</li>
+      <li>🛰️ Reworked (and re-enabled) the <code>/status</code> command with a new design and separate sections for old-gen consoles</li>
+      <li>🤔 Added new polls and hot takes</li>
+      <li>💬 Camera will now use a random Siege quote as its status, updated every hour</li>
+    </ul>
+    <strong>🌐 Website</strong>
+    <p>
+      This companion website has been updated with a sleek list of past changelogs, an overhauled Features page and <em>big</em> buttons to add it to your server.
+    </p>
+    <strong>🐞 Fixes</strong>
+    <ul>
+      <li>🔤 Fixed a few grammatical, formatting and various interface issues</li>
+      <li>🔦 Several icons have been updated to resolve issues with light themes</li>
+    </ul>
+  </div>
+</div>
+
+
+
+<div class="collapsible-box">
+  <div class="collapsible-header">
     <span>Version 1.14 - March 2</span>
     <span class="arrow"><i class="fas fa-chevron-right"></i></span>
   </div>
