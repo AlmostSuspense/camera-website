@@ -4,6 +4,38 @@
 
 <div class="collapsible-box">
   <div class="collapsible-header">
+    <span>Version 1.16 - September 2</span>
+    <span class="arrow"><i class="fas fa-chevron-right"></i></span>
+  </div>
+  <div class="collapsible-content">
+    <p><em>🌸 “Play your cards right and be decisive”</em></p>
+    <p>
+      It has become an all-or-nothing fight to disrupt enemy objectives. Called into the spotlight, Operator
+      <a href="https://www.ubisoft.com/en-us/game/rainbow-six/siege/game-info/operators/denari" target="_blank" rel="noopener noreferrer"><strong>Denari</strong></a>’s calculating mind is sent in to help resolve the situation.
+      Hailing from Switzerland, this crafty operator brings their novel T.R.I.P. Connector gadget (Trigonometric Realignment Injection Paranode), a laser grid network able to damage and slow enemy movement!
+    </p>
+    <p>🔧 Available in the <code>/season</code> command alongside new features</p>
+    <strong>✨ Features</strong>
+    <ul>
+      <li>⚖️ For users using the English US and English UK locales in their Discord settings, operator height and weight will also be shown in pounds and foot-inches on the Lore section of the <code>/operator</code> command</li>
+      <li>🛰️ Added new custom statuses</li>
+      <li>🗺️ Updated the <code>/roadmap</code> command inline with Ubisoft's <a href="https://x.com/Rainbow6Game/status/1953123904337170818" target="_blank" rel="noopener noreferrer">latest changes</a></li>
+    </ul>
+    <strong>🌐 Privacy Policy</strong>
+    <p>
+      Camera's <a href="https://suspense.is-a.dev/#/camera/legal/privacy-policy.md" target="_blank" rel="noopener noreferrer"><strong>privacy policy</strong></a> has been updated to mention new data storing for analytics.
+    </p>
+    <strong>🐞 Fixes</strong>
+    <ul>
+      <li>🔤 Fixed a few grammatical, formatting and various interface issues</li>
+      <li>🖼️ Removed the big "new" attachment that was randomly showing on various commands</li>
+    </ul>
+  </div>
+</div>
+
+
+<div class="collapsible-box">
+  <div class="collapsible-header">
     <span>Version 1.15 - June 8 <img src="https://cdn.discordapp.com/emojis/1345421034593058886.webp?size=4096&quality=lossless" alt="Siege X" style="width:1.2em; height:1.2em; vertical-align:middle; margin-right:0.3em;"></span>
     <span class="arrow"><i class="fas fa-chevron-right"></i></span>
   </div>
@@ -425,6 +457,20 @@
       <li>Added Vigil as a counter of Grim</li>
       <li>Added reminder about slash commands when the bot is mentioned</li>
     </ul>
+  </div>
+</div>
+
+<div class="collapsible-box">
+  <div class="collapsible-header">
+    <span>Version 1.0 - September 8 🐣</span>
+    <span class="arrow"><i class="fas fa-chevron-right"></i></span>
+  </div>
+  <div class="collapsible-content">
+    <strong>Initial Launch</strong>
+    <ul>
+      <li>Camera launched on Discord (after going through many name changes, like "Cams" or "Awiki")</li>
+    </ul>
+
   </div>
 </div>
 

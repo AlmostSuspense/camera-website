@@ -24,7 +24,6 @@
         content="Learn more about the bot, its features and how you can contribute to its development.">
     <meta property="og:url" content="https://suspense.is-a.dev/#/camera/features">
 
-
     <!-- Theme -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
 
@@ -35,7 +34,6 @@
             --base-background-color: #0d1013;
             --base-font-size: 16px;
 
-            --cover-background-image: url("https://raw.githubusercontent.com/AlmostSuspense/website/4f34dc28c3f708df81a39eee2c30c4cd5476edc1/images/background-banner.svg");
             --heading-color: hsl(0deg 0% 100%);
             --heading-h3-font-size: var(--font-size-l);
             --heading-h1-font-weight: 600;
@@ -289,7 +287,6 @@
             }
 
 
-
             .issue-header {
                 color: #ff4d4f;
                 padding: 10px 20px;
@@ -309,6 +306,39 @@
                 border-collapse: separate;
                 border-spacing: 0;
             }
+
+            .policy-dates {
+                display: flex;
+                gap: 10px;
+                margin: 20px 0;
+                flex-wrap: wrap;
+            }
+
+            .date-pill {
+                display: inline-flex;
+                align-items: center;
+                gap: 6px;
+                padding: 6px 12px;
+                border-radius: 999px;
+                /* pill shape */
+                font-size: 0.9rem;
+                font-weight: 500;
+                color: #fff;
+            }
+
+            .date-pill i {
+                font-size: 1rem;
+            }
+
+            /* Colors for dark theme */
+            .date-pill.effective {
+                background-color: #5b5c59;
+            }
+
+            .date-pill.updated {
+                background-color: #1f73d3;
+            }
+
 
             thead>tr:first-child>th:first-child {
                 border-top-left-radius: 12px;
@@ -340,6 +370,7 @@
             .icon-box span {
                 font-size: 1.2rem;
             }
+
             .section-description {
                 font-size: 18px;
             }
@@ -362,18 +393,16 @@
             notFoundPage: true,
             maxLevel: 3,
             footer: {
-                copy: '<span><a href="#/camera/legal/privacy-policy.md">Privacy Policy</a> - <a href="#/camera/legal/terms.md">Terms</a></span>',
-                auth: '- © Camera 2022-2025',
+                copy: '<span><a href="#/camera/legal/privacy-policy.md">Privacy Policy</a> • <a href="#/camera/legal/terms.md">Terms</a></span>',
+                auth: '• © Camera 2022-2025',
                 style: 'text-align: center;'
             },
             executeScript: true,
             ga: 'UA-100100910-3',
-
             themeColor: "#191F26"
-        };
+        }
     </script>
 
-    <!-- Your plugin scripts (unchanged) -->
     <script src="https://unpkg.com/docsify-footer-enh/dist/docsify-footer-enh.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/docsify@4"></script>
     <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0"></script>
@@ -384,7 +413,6 @@
     <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
 
-    <!-- ✅ NEW: Collapsible box logic -->
     <script>
         document.addEventListener('click', e => {
             const header = e.target.closest('.collapsible-header');
@@ -414,10 +442,9 @@
             document.querySelectorAll('.collapsible-content').forEach(content => {
                 content.style.display = 'none';
                 content.previousElementSibling.querySelector('.arrow i').classList.replace('fa-chevron-down', 'fa-chevron-right');
-            });
-        });
+            })
+        })
 
-        // Optional: toggle single section
         document.querySelectorAll('.collapsible-header').forEach(header => {
             header.addEventListener('click', () => {
                 const content = header.nextElementSibling;
@@ -425,9 +452,8 @@
                 const isOpen = content.style.display === 'block';
                 content.style.display = isOpen ? 'none' : 'block';
                 icon.classList.replace(isOpen ? 'fa-chevron-down' : 'fa-chevron-right', isOpen ? 'fa-chevron-right' : 'fa-chevron-down');
-            });
-        });
-
+            })
+        })
 
     </script>
 </body>

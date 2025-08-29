@@ -1,8 +1,11 @@
 # Privacy Policy
-**Effective Date**: September 1st, 2022\
-**Last Updated**: August 31st, 2025
 
-Camera (or @Camera#4879) is a Discord application based around [Tom Clancy's Rainbow Six Siege](https://ubisoft.com/en-us/game/rainbow-six/siege). Camera helps you get into the universe of Siege — learn the operators, maps, gadgets, and start climbing the rank ladder!
+<div class="policy-dates">
+  <span class="date-pill effective"><i class="fas fa-calendar-alt"></i> Effective: <strong>September 1st, 2022</strong></span>
+  <span class="date-pill updated"><i class="fas fa-sync-alt"></i> Last updated: <strong>Aug 31, 2025</strong></span>
+</div>
+
+Camera (or @Camera#4879) is a Discord companion application based around [Tom Clancy's Rainbow Six Siege](https://ubisoft.com/en-us/game/rainbow-six/siege). Camera helps you get into the universe of Siege — learn the operators, maps, gadgets, and start climbing the rank ladder!
 
 ### Data Storing
 To power analytics, Camera will update a numeric counter when you use perform various actions on the bot, such as using a command or clicking a button. Unless stated otherwise in the exceptions list below, this is only a numeric counter going up and cannot be traced back to you.
@@ -18,7 +21,7 @@ To learn how you use Camera and in order to improve it, Camera tracks various us
 - Additional details about the interaction (such as, but not limited to, "used a command" or "added the bot to a server")
 
 ### Data Deletion
-Due to the nature of the logging system, fully integrated with Discord, we are not able to delete log entries. Additonally, since the only data we might store about users is their unique user identifier to prevent abuse, it is necessary for the bot to operate and thus not something you can request the deletion of. 
+Due to the nature of the logging system, fully integrated with Discord, we are not able to delete log entries. Additonally, since the only data we might store about users is their unique user identifier to prevent abuse, it is necessary for the bot to operate and thus not something you can request the deletion of.
 
 ### Questions
 If you have any questions about Camera, don't hesitate to reach out in the [support server](https://suspense.is-a.dev/support) with details about your concern in the `#support` channel.

@@ -37,7 +37,7 @@
 <div class="icon-box"><span class="icon">💬</span><span class="text">Share your feedback!</span></div>
 
 ## ✨ More to come
-<span class="section-description">If you're interested in contributing to the bot, please join the <a href="https://suspense.is-a.dev/support" target="_blank" rel="noopener noreferrer">support server</a> or use the <code>/feedback</code> command! Your feedback will help improve the bot across future updates.</span>
+<span class="section-description">If you're interested in contributing to the bot, please join the <a href="https://suspense.is-a.dev/support" target="_blank" rel="noopener noreferrer">support server</a> or use the <code>/feedback</code> command! Your feedback will help improve Camera!</span>
 
 <div class="sidebar-top-button">
   <a href="https://discord.com/api/oauth2/authorize?client_id=594528267898454027" class="sidebar-btn">
