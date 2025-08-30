@@ -12,7 +12,7 @@ You will find below a list of definitions explaining the meaning of specific wor
 
 # Usage Requirements
 ## Age
-Per Discord's own [terms](https://discord.com/terms), using the plateform requires you to be 13 years old and above the minimum age of digital consent in your country. As such by using the Services, you confirm to meet both of the aforementioned requirements. If you are old enough to access our Services in your country, but not old enough to have authority to consent, a parent or legal guardian must agree to these terms on your behalf.
+Per Discord's own [terms](https://discord.com/terms), using the platform requires you to be 13 years old and above the minimum age of digital consent in your country. As such by using the Services, you confirm to meet both of the aforementioned requirements. If you are old enough to access our Services in your country, but not old enough to have authority to consent, a parent or legal guardian must agree to these terms on your behalf.
 
 ## Account & Responsability
 To use the Services, you will need to create or be the owner of a [Discord](https://discord.com) account. As outlined in Discord's own [terms](https://discord.com/terms), you will have to provide a username, a password, and a way to contact you (an email address and/or phone number). For more information about how Discord uses your data, check out their [privacy policy](https://discord.com/privacy). Additionally, you are responsible for the security of your account, and therefore we are not liable for any actions taken on the behalf of your account impacting your or other people's usage of the Services, regardless of whether it is or has been compromised.
@@ -54,4 +54,4 @@ Here is a list of our official products:
 - Our production bot account on Discord (Camera#4879 - 594528267898454027)
 
 ## Contact
-If you'd like to contact us, feel free to join our [support server](https://suspense.is-a.dev/).
+If you'd like to contact us, feel free to join the [support server](https://suspense.is-a.dev/support).

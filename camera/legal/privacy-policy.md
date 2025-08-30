@@ -21,7 +21,7 @@ To learn how you use Camera and in order to improve it, Camera tracks various us
 - Additional details about the interaction (such as, but not limited to, "used a command" or "added the bot to a server")
 
 ### Data Deletion
-Due to the nature of the logging system, fully integrated with Discord, we are not able to delete log entries. Additonally, since the only data we might store about users is their unique user identifier to prevent abuse, it is necessary for the bot to operate and thus not something you can request the deletion of.
+Due to the nature of the logging system, fully integrated with Discord, we are not able to delete log entries. Additionally, since the only data we might store about users is their unique user identifier to prevent abuse, it is necessary for the bot to operate and thus not something you can request the deletion of.
 
 ### Questions
 If you have any questions about Camera, don't hesitate to reach out in the [support server](https://suspense.is-a.dev/support) with details about your concern in the `#support` channel.
