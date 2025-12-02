@@ -23,7 +23,9 @@
 
 <div class="icon-box"><span class="icon">🥷</span><span class="text">Lookup operator profiles or pick one at random</span></div>
 
-<div class="icon-box"><span class="icon">🚀</span><span class="text">Stay up-to-date with the Year 10 roadmap and upcoming updates</span></div>
+<div class="icon-box"><span class="icon">📡</span><span class="text">Check the current status of Siege's servers</span></div>
+
+<!-- <div class="icon-box"><span class="icon">🚀</span><span class="text">Stay up-to-date with the Year 10 roadmap and upcoming updates</span></div> -->
 
 ## 📅 A consistent update schedule
 <span class="section-description">Camera follows the same update cycle as the game, with a new major update every quarter and smaller changes in between. It tries to constantly be caught up with the latest game patch, to make sure the information it provides is accurate.</span>
@@ -37,7 +39,7 @@
 <div class="icon-box"><span class="icon">💬</span><span class="text">Share your feedback!</span></div>
 
 ## ✨ More to come
-<span class="section-description">If you're interested in contributing to the bot, please join the <a href="https://suspense.is-a.dev/support" target="_blank" rel="noopener noreferrer">support server</a> or use the <code>/feedback</code> command! Your feedback will help improve Camera!</span>
+<span class="section-description">If you're interested in contributing to the bot, please join the <a href="https://suspense.is-a.dev/support" target="_blank" rel="noopener noreferrer">support server</a> or use the <code>/feedback</code> command! Your feedback will help improve Camera.</span>
 
 <div class="sidebar-top-button">
   <a href="https://discord.com/api/oauth2/authorize?client_id=594528267898454027" class="sidebar-btn">

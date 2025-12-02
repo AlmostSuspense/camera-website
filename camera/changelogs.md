@@ -4,6 +4,36 @@
 
 <div class="collapsible-box">
   <div class="collapsible-header">
+    <span>Version 1.17 – December 2 🎂</span>
+    <span class="arrow"><i class="fas fa-chevron-right"></i></span>
+  </div>
+  <div class="collapsible-content">
+    <p><em>🎂 Happy 10 Years Anniversary, Siege!</em></p>
+    <p><em>🔥 “They say you can't teach an old dog new tricks, they were wrong.”</em></p>
+    <p>
+      Operation Tenfold Persuit marks the 10-year anniversary, bringing a torrent of change with it.
+      <a href="https://www.ubisoft.com/en-us/game/rainbow-six/siege/game-info/operators/thatcher" target="_blank" rel="noopener noreferrer"><strong>Thatcher</strong></a>
+      gears up to meet the moment and upgrades his arsenal, first by gaining access to the PMR90A2 marksman rifle, becoming the first operator with four main weapon options.
+      Next, his favorite EMP gets upgraded with the Electronic Gear Scanner Disruptor, which allows him to search for and deactivate electronic gadgets in the area.
+    </p>
+    <p>🔧 Available in the <code>/season</code> command alongside new features and balancing changes</p>
+    <strong>✨ Features</strong>
+    <ul>
+      <li>🎨 Revamped the <code>/about</code> command using Discord's new set of components</li>
+      <li>🛣️ Removed the <code>/roadmap</code> command as we've reached the last season of Year 10, though it will be added back and redesigned in the next update</li>
+      <li>🌶️ Added new fun facts, polls, and hot takes</li>
+      <li>😔 Mute has been removed as counter from a bunch of operators :/</li>
+    </ul>
+    <strong>📢 Notice</strong>
+    <p>Blueprints for the reworked version of Fortress will be added in the coming days as Ubisoft has not updated the game's website yet.</p>
+    <strong>💬 Feedback</strong>
+    <p>If you have suggestion for Camera, don't hesitate to let me know using the </feedback:1375434660091265189> command and it may be added in future updates!</p>
+  </div>
+</div>
+
+
+<div class="collapsible-box">
+  <div class="collapsible-header">
     <span>Version 1.16 - September 2</span>
     <span class="arrow"><i class="fas fa-chevron-right"></i></span>
   </div>
