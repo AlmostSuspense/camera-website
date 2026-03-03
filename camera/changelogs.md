@@ -14,20 +14,20 @@
       With few options left, Sam Fisher calls in a legendary infiltration expert to join the fight — none other than
       <a href="https://www.ubisoft.com/en-us/game/rainbow-six/siege/game-info/operators/solid-snake" target="_blank" rel="noopener noreferrer"><strong>Solid Snake</strong></a>.
       Attacking from the shadows, Solid Snake brings the covert TACIT .45 sidearm as well as his main gadget, the Soliton Radar Mk. III,
-      able to display a map of the area and any hostiles present.
+      able to display a map of the immediate area and any hostiles present.
     </p>
     <p>🔧 Available in the <code>/season</code> command alongside new features!</p>
     <strong>✨ Features</strong>
     <ul>
-      <li>🎨 Redesigned the <code>/operator</code> command using Discord's new set of components, removing the pagination look</li>
+      <li>🎨 Redesigned the <code>/operator</code> command using Discord's new set of components, replacing the old pages system</li>
       <li>🛣️ Revamped the look of the attachments info, now shown when clicking the "Attachments" button on operator profiles</li>
+      <li>🗺️ Added back the <code>/roadmap</code>code> command for Year 11</li>
       <li>🌶️ Added new funfacts, polls and hot takes</li>
       <li>🐞 Fixed various bugs and small issues</li>
-      <li>🗺️ Replaced a bunch of outdated map assets and updated the reworked blueprints for the Fortress map</li>
+      <li>🗺️ Replaced a bunch of outdated map assets and added the reworked blueprints for the Fortress map</li>
     </ul>
   </div>
 </div>
-
 
 <h2 class="year-header">2025</h2>
 
