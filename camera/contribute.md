@@ -6,7 +6,6 @@ Siege is an always-evolving game, especially with the [frequency](https://www.ub
 - **Polls**: You can suggest questions around the game that the bot would ask players to start debates (eg. *is Tower a good map?*)
 - **Hot Takes**: Spicy opinions for the `/hot-take` command.
 - **Funfacts:** I also accept funfact suggestions to be added to the command with the same name.
-- **Links:** You can also suggest links to be added to the `/links` command, note that they must have a reasonable link to the game.
 - **Quotes**: Camera uses operator quotes as its live status on Discord
 - **Operator Data:** If you think an operator is missing information such as counters, synergies, tips, etc.. please suggest some changes!
 

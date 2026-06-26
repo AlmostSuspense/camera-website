@@ -4,6 +4,75 @@
 
 <div class="collapsible-box">
   <div class="collapsible-header">
+    <span>Version 1.19.1 – June 26</span>
+    <span class="arrow"><i class="fas fa-chevron-right"></i></span>
+  </div>
+  <div class="collapsible-content">
+    <p>
+      This version focuses on quality of life improvements in autocomplete:
+    </p>
+    <p><strong>When searching for operators, you can now tailor your search by specifying:</strong></p>
+    <ul>
+      <li>Weapon names: Mx4, BOSG, L85, etc...</li>
+      <li>Aliases: monty, the lord, "not rook" :^)</li>
+      <li>Specialties: shield, support, crowd control, etc</li>
+      <li>Ability name: JEGEO Payload, Garra Hook, etc</li>
+      <li>Release season name and slug: Chimera, Para Bellum, Y5S2, Y6</li>
+    </ul>
+    <p><strong>When searching for maps, you can now tailor your search by specifying:</strong></p>
+    <ul>
+      <li>Map location: Los Angeles (Bank), France (Chalet), etc</li>
+      <li>Release date</li>
+      <li>Playlist name to returns all maps available in that playlist (ranked, quick match, etc)</li>
+      <li>Updates (reworks, modernizations, etc)</li>
+    </ul>
+    <p><strong>When searching for seasons, you can now tailor your search by specifying:</strong></p>
+    <ul>
+      <li>Season slug: Y6 for all of Year 6 or Y5S2 for that specific season</li>
+      <li>Release date</li>
+      <li>Name of operators added in that season</li>
+      <li>Name of the map added in that season</li>
+      <li>Name of weapons added in that season</li>
+      <li>Aliases (currently, only "siege x")</li>
+    </ul>
+  </div>
+</div>
+
+<div class="collapsible-box">
+  <div class="collapsible-header">
+    <span>Version 1.19 – June 2</span>
+    <span class="arrow"><i class="fas fa-chevron-right"></i></span>
+  </div>
+  <div class="collapsible-content">
+    <p><em>Operation System Override</em></p>
+    <p><em>📵 “Aww.. did I break your phone?”</em></p>
+    <p>
+      Bringing new energy to old favorites, with a remastered operator and an overhaul of the most-played playlist.
+      <a href="https://www.ubisoft.com/en-us/game/rainbow-six/siege/game-info/operators/dokkaebi" target="_blank" rel="noopener noreferrer"><strong>Dokkaebi</strong></a>
+      is even more lethal with a fresh unique ability, the Jegeo Payload! No need to be within close range to take control of eliminated opponents' phones, the original hacking attacker can now gain access from a distance. Dokkaebi also wields a new gun, the XK23 AR, an experimental bullpup rifle with superior maneuverability for mid-range dominance.
+    </p>
+    <p>🔧 Available in the <code>/season</code> command alongside new features!</p>
+    <strong>✨ Features</strong>
+    <ul>
+      <li>⚖️ Updated operator information regarding the seasonal balancing changes</li>
+      <li>🗺️ Added the new Calypso Casino map to the <code>/map</code> command with floor blueprints, and removed Di</li>
+      <li>🔍 Autocomplete suggestions will now automatically surface new seasonal content at the top when no input is provided</li>
+      <li>🎉 Added the <code>/event</code> command that will display game rules, availability and more, for upcoming or ongoing in-game events</li>
+      <li>🗓️ Added the ability to create a <a href="https://support.discord.com/hc/en-us/articles/4409494125719-Scheduled-Events" target="_blank" rel="noopener noreferrer">guild event</a> directly in your server that is synchronized with mode in-game, through the new <code>/event</code> command</li>
+      <li>🖼️ Added new icons to the <code>/operator</code> command as well as the unique ability name and starting amount for every operator</li>
+      <li>🌶️ Added new funfacts, polls and hot takes</li>
+      <li>🐞 Fixed various bugs, grammatical and formatting issues</li>
+    </ul>
+    <strong>🔒 Permissions</strong>
+    <p>
+      To power the guild event creation, Camera now asks for the <strong>Create Events</strong> permission to power this feature. It is completely optional and the button will not show if Camera is missing this permission.
+    </p>
+  </div>
+</div>
+
+
+<div class="collapsible-box">
+  <div class="collapsible-header">
     <span>Version 1.18 – March 3</span>
     <span class="arrow"><i class="fas fa-chevron-right"></i></span>
   </div>
@@ -27,6 +96,20 @@
     </ul>
   </div>
 </div>
+
+
+<div class="collapsible-box">
+  <div class="collapsible-header">
+    <span>Version 1.17.1 – February 1</span>
+    <span class="arrow"><i class="fas fa-chevron-right"></i></span>
+  </div>
+  <div class="collapsible-content">
+    <p>
+      Small update containing a bunch of small bug fixes, the removal of the statuses related to the tenth anniversary, plus Denari and Thatcher are no longer marked as new.
+    </p>
+  </div>
+</div>
+
 
 
 <h2 class="year-header">2025</h2>
