@@ -7,7 +7,6 @@
 # **Camera**
 [<i class="fa-solid fa-jet-fighter"></i> Features](/camera/features)
 [<i class="fa-solid fa-circle-info"></i> Contributions](/camera/contribute)
-[<i class="fa-solid fa-clipboard-list"></i> Changelogs](/camera/changelogs)
 
 # **Legal**
 [<i class="fa-solid fa-lock"></i> Privacy Policy](/camera/legal/privacy-policy.md)
